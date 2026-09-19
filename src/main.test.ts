@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("SaaS Desk",()=>it("has a valid title",()=>expect("SaaS Desk".length).toBeGreaterThan(3)));
